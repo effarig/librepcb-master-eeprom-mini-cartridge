@@ -1,8 +1,8 @@
 (librepcb_symbol c9a34bef-c2e2-46d1-b00b-9b462bc54c2b
  (name "BBC Master Cartridge")
  (description "Acorn BBC Master/Electron cartridge edge connector")
- (keywords "Acorn, cartridge")
- (author "effarig")
+ (keywords "acorn, bbc, master, cartridge")
+ (author "James Peacock")
  (version "0.1")
  (created 2020-06-05T23:45:16Z)
  (deprecated false)

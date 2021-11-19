@@ -1,8 +1,8 @@
 (librepcb_component 75f45e89-a44e-41c5-b963-f2a4a6eb6760
- (name "Acorn Cartridge Edge Connector")
+ (name "Acorn Cartridge Board Edge")
  (description "")
- (keywords "")
- (author "effarig")
+ (keywords "acorn,cartridge,master")
+ (author "James Peacock")
  (version "0.1")
  (created 2020-06-06T01:11:01Z)
  (deprecated false)

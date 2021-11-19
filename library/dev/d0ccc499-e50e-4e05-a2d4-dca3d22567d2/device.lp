@@ -1,8 +1,8 @@
 (librepcb_device d0ccc499-e50e-4e05-a2d4-dca3d22567d2
- (name "Acorn Cartridge Edge Connector")
- (description "Edge connector for the cartridge slots on the BBC Master and Electron machines prducec by of Acorn Computers\'")
- (keywords "acorn,cartridge")
- (author "effarig")
+ (name "Acorn Cartridge Board Edge")
+ (description "Board edge for the cartridge slots on the BBC Master computer produced by Acorn Computers.")
+ (keywords "acorn,cartridge,master")
+ (author "James Peacock")
  (version "0.1")
  (created 2020-06-06T01:37:58Z)
  (deprecated false)

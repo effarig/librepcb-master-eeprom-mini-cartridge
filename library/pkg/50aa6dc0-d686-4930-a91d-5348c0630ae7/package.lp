@@ -1,6 +1,6 @@
 (librepcb_package 50aa6dc0-d686-4930-a91d-5348c0630ae7
  (name "Unipolar Capacitor Through The Hole (2.54mm)")
- (description "Generic through the hole pads for a unipoloar capacitor which will be raised from the board.")
+ (description "Generic through the hole pads for a unipoloar capacitor not be sitting flush to the board.")
  (keywords "capacitor, unipolar, electrolytic")
  (author "James Peacock")
  (version "0.1")
