@@ -1,0 +1,12 @@
+(librepcb_device 90cc11b1-af61-4985-aff3-f466c0ed7bc7
+ (name "Acorn BBC Master Logo")
+ (description "Logo for Acorn\'s Master series computers.")
+ (keywords "acorn, beeb, bbc, master, logo")
+ (author "James Peacock")
+ (version "0.1")
+ (created 2021-11-18T01:10:31Z)
+ (deprecated false)
+ (category 213bd44f-f375-41d8-8fdd-0652eb893e27)
+ (component 54c3e736-4a7e-4632-94b1-ca6b6fb4dd43)
+ (package c9d9015f-6b81-483a-b17d-0d899c48f14d)
+)
