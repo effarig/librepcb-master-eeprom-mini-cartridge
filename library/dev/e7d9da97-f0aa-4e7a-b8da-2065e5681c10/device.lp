@@ -1,10 +1,10 @@
-(librepcb_device e34b6c38-8333-471b-ab54-4de7c19f40b5
- (name "74HCT139")
- (description "Generic dual 2-line to 4-line decoder/demultiplexer with enable input.")
- (keywords "74139,decoder,demultiplexer")
+(librepcb_device e7d9da97-f0aa-4e7a-b8da-2065e5681c10
+ (name "SN74HCT139N")
+ (description "Dual 2-line to 4-line decoder/demultiplexer with enable input.\nTexas Instruments")
+ (keywords "74139")
  (author "James Peacock")
  (version "0.1")
- (created 2021-11-11T02:14:47Z)
+ (created 2021-11-12T02:58:36Z)
  (deprecated false)
  (category 651dca6f-67a5-4ee3-a07f-ed028243a6e2)
  (component f0c80a85-9526-4fc3-9e0c-91af2ffad775)

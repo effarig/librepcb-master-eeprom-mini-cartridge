@@ -1,7 +1,7 @@
 (librepcb_device 6fc9e6c5-d954-4413-9a6f-f65f32eb737e
- (name "AT28C256")
- (description "")
- (keywords "")
+ (name "AT28C256-15PU")
+ (description "256kbit Parallel EEPROM Memory 150ns\n32K x 8bit\nMicrochip")
+ (keywords "AT28C256")
  (author "James Peacock")
  (version "0.1")
  (created 2021-11-15T01:11:14Z)
