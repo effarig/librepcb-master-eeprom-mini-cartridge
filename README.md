@@ -17,7 +17,8 @@ The schematic is based on a modification for BBC Master ROM cartridges [(schemat
 
 | Designator | Qty | Value | Description                                | Package |
 |------------|-----|-------|--------------------------------------------|---------|
-| C1, C2     | 2   | 100nF | Ceramic capacitor                          |         |
+| C1, C2     | 2   | 100nF | Ceramic capacitor.                         |         |
+| C3         | 1   | 47µF  | Electrolytic capacitor.                    |         |
 | R1         | 1   | 10kΩ  | Resistor 5%                                |         |
 | IC1        | 1   |       | Microchip AT28C256-15PU.                   | PDIP    |
 | IC2        | 1   |       | 74HCT139.                                  | PDIP    |
