@@ -1,11 +1,12 @@
 (librepcb_symbol a6703870-06cd-4074-81e9-37dcde182774
  (name "BBC Master Logo")
- (description "Schematic logo for Acorn\'s BBC Master.")
+ (description "Schematic logo for Acorn's BBC Master.")
  (keywords "acorn, bbc, beeb, baster")
  (author "James Peacock")
  (version "0.1")
  (created 2021-11-17T23:50:38Z)
  (deprecated false)
+ (generated_by "")
  (category e0702c57-f31f-497d-ae1e-e31c4017f3c0)
  (polygon 2bfff8a2-83d4-4bd2-b289-51e498cd2d8d (layer sym_outlines)
   (width 0.2) (fill false) (grab_area false)
